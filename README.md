@@ -41,7 +41,7 @@ Em sua linha de comando:
 
 ```powershell
 # Clone este repósitorio
-git clone https://github.com/ThiagoMenesesVieira/nlw-JS-Collect
+git clone https://github.com/ThiagoMenesesVieira/nlw-JS-collect
 
 # Vá para o repósitorio
 cd .\nwl\Ecollect\
