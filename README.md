@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" alt="Logo da Next Level Week">
-</h1>
+
 
 <h3 align="center">
   <strong>🚀 Next Level Week (NLW) 🚀 </strong>
