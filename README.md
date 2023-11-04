@@ -1,70 +1,43 @@
+## 💻 Project
 
+The "Ecoleta" project is developed based on the International Environment Week. The goal is to connect people to companies that collect specific waste, such as light bulbs, batteries, cooking oil, etc.
 
-<h3 align="center">
-  <strong>🚀 Next Level Week (NLW) 🚀 </strong>
-</h3>
+## 🚀 Technologies
 
-## ℹ O que é a Next Level Week?
+This project was developed with the following technologies:
 
-O NLW é uma semana prática realizada pela [ROCKETSEAT](https://rocketseat.com.br/) com muitos códigos, desafios, networking e um único objetivo: Te levar para o próximo nível.
-
-Através desse método aprendi novas ferramentas, conheci novas tecnologias e descobri hacks para impulsionar a minha carreira.
-
-
-## 💻 Projeto
-
-O projeto "Ecoleta" é um projeto desenvolvido baseado na semana internacional do Meio Ambiente. O Objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha, etc.
-
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
-- [HTML](https://pt.wikipedia.org/wiki/HTML)
-- [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [SQLITE3](https://www.sqlite.org/about.html)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [SQLite3](https://www.sqlite.org/about.html)
 - [NUNJUCKS](https://mozilla.github.io/nunjucks)
-- [NODE](https://pt.wikipedia.org/wiki/Node.js)
+- [NODE](https://en.wikipedia.org/wiki/Node.js)
 
 ## 🎨 Design
 
-Para ver o protótipo do projeto acesse o [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=)
+To view the project's prototype, access [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=)
 
-## ℹ Como usar
+## ℹ How to Use
 
-Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/pt-br/) instalado em seu computador.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/) installed on your computer.
 
-Em sua linha de comando:
+In your command line:
 
 ```powershell
-# Clone este repósitorio
+# Clone this repository
 git clone https://github.com/ThiagoMenesesVieira/nlw-JS-collect
 
-# Vá para o repósitorio
+# Navigate to the repository
 cd .\nwl\Ecollect\
 
-# Instale as dependências
+# Install dependencies
 npm install
 
-# Inicie o site
+# Start the website
 npm start
 
-# Acesse o site pela linha de comando ou pelo navegador
+# Access the website through the command line or browser
 start "http://localhost:3000"
 ```
 
-## 🤔 Como contribuir
-
-- Faça um fork do repósitorio
-- Faça um branch com seu recurso `git checkout -b seu-recurso`
-- Faça o commit `git commit -m "Adicionar recurso login "` (EXEMPLO)
-- Faça o push para sua branch `git push origin seu-recurso`
-- Faça um pull request e espere ser aceito ou recusado
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-Feito com ♥ by Thiago Meneses <img src="https://img.icons8.com/officexs/16/000000/linkedin.png"/> [Linkedin](https://www.linkedin.com/in/thiago-meneses-vieira-7aa8922a/).
+Made with ♥ by Thiago Vieira <img src="https://img.icons8.com/officexs/16/000000/linkedin.png"/> [Linkedin](https://www.linkedin.com/in/mvthiago/).
